@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>
-		<version>1.0.0.RELEASE</version> <!-- Use a versão mais antiga do Spring Boot compatível com 2013 -->
+		<version>1.0.0.RELEASE</version>
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>springboot-2013</artifactId>
@@ -13,15 +13,15 @@
 	<name>springboot-2013</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
-		<java.version>1.7</java.version> <!-- Use a versão de Java compatível com 2013 -->
+		<java.version>1.7</java.version> 
 	</properties>
 	<dependencies>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-jpa</artifactId>
-			<version>1.0.0.RELEASE</version> <!-- Use a versão mais antiga do Spring Boot compatível com 2013 -->
+			<version>1.0.0.RELEASE</version> 
 		</dependency>
-		<!-- Outras dependências aqui -->
+		
 
 	</dependencies>
 
